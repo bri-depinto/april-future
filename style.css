@@ -14,14 +14,21 @@ object-fit: cover;
 }
 .wordz{
 align-items: center;
-font-size: 7vmax;
-opacity: 70%;
-color: rgb(193, 229, 255);
+font-size: 8vmax;
+opacity: 50%;
+color: white;
 position: relative;
 top:10%;
+font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+letter-spacing: 8px;
 }
 .cardss{
     margin-top: 60px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 .imgc{
     height:100%;
@@ -31,6 +38,20 @@ top:10%;
     min-height: 150px;
     min-width: 150px;
 }
+.navbar-brand{
+  font-family:'Englebert', cursive; ;
+  font-size: 1.5vmax;
+  color: rgb(9, 2, 55) ;
+  font-weight: 900;
+  letter-spacing: 1.5px;
+}
+.card-title{
+  font-family: "Anton", sans-serif;
+  letter-spacing: 1px;
+text-decoration: 1px solid underline;    
+}
+
+
 footer{
     background-color: rgb(193, 229, 255);
     color: #fff;
