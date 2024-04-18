@@ -9,11 +9,13 @@ body{
 .c-img{
 max-width: 100%;
 max-height: 525px;
-opacity: 50%;
+opacity: 60%;
 }
 .wordz{
 align-items: center;
-font-size: 90px;
+font-size: 7vmax;
 opacity: 70%;
 color: rgb(193, 229, 255);
+position: relative;
+top:10%;
 }
