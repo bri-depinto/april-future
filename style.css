@@ -55,14 +55,6 @@ letter-spacing: 8px;
     border: 5px double #2289DE;
     box-shadow: 0 8px 4px 0 #2289DE, 0 12px 40px 0 #2289DE;
 }
-.navbar-brand{
-  font-family:'Englebert', cursive; ;
-  font-size: 1.5vmax;
-  color: rgb(9, 2, 55) ;
-  font-weight: 900;
-  letter-spacing: 1.5px;
-  text-decoration: none;
-}
 
 .navbar-brando{
   font-family:'Englebert', cursive; ;
@@ -71,7 +63,13 @@ letter-spacing: 8px;
   font-weight: 900;
   letter-spacing: 1.5px;
   text-decoration: none;
+  transition: 0.3s;
 }
+.navbar-brando:hover{
+  color: #2289DE;
+  transition: 0.3s;
+}
+
 .card-title{
   font-family: "Anton", sans-serif;
   letter-spacing: 1px;
