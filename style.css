@@ -44,6 +44,7 @@ letter-spacing: 8px;
     margin-right: 10px;
     margin-left: 10px;
     padding: 10px;
+  
 }
 .imgc{
     min-height: 100%;
@@ -54,6 +55,7 @@ letter-spacing: 8px;
     min-width: 150px;
     border: 5px double #2289DE;
     box-shadow: 0 8px 4px 0 #2289DE, 0 12px 40px 0 #2289DE;
+ 
 }
 
 .navbar-brando{
