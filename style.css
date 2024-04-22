@@ -93,8 +93,24 @@ color: rgb(9, 2, 55);
     box-shadow: inset 200px 0 0 0 #2289DE;
     border-radius: 8px;
   }
+.tester{
+ border: #2289DE double 3px;
+ height: fit-content;
+ box-shadow: 0 8px 4px 0 #2289DE, 0 12px 40px 0 #2289DE;
+}
 
+.divtitle{
+  color: #fff;
+  font-family: "Anton", sans-serif;
+ text-decoration: underline;
+ text-decoration-thickness: 2px;
+ letter-spacing: 1px;
 
+}
+.infoo{
+  color: #2289DE;
+  font-family: 'Englebert', cursive;
+}
 
 
 footer{
