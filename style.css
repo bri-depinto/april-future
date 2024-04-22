@@ -105,11 +105,12 @@ color: rgb(9, 2, 55);
  text-decoration: underline;
  text-decoration-thickness: 2px;
  letter-spacing: 1px;
-
+margin-bottom: 10px;
 }
 .infoo{
   color: #2289DE;
   font-family: 'Englebert', cursive;
+  font-size: 1.3vmax;
 }
 
 
