@@ -97,7 +97,10 @@ color: rgb(9, 2, 55);
  border: #2289DE double 3px;
  height: fit-content;
  box-shadow: 0 8px 4px 0 #2289DE, 0 12px 40px 0 #2289DE;
+height: 300px;
+
 }
+
 
 .divtitle{
   color: #fff;
@@ -113,6 +116,22 @@ margin-bottom: 10px;
   font-size: 1.3vmax;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(193, 229, 255);
+  border-radius: 2px;
+}
 
 footer{
     background-color: rgb(193, 229, 255);
