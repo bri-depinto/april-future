@@ -14,11 +14,11 @@ object-fit: cover;
 }
 .wordz{
 align-items: center;
-font-size: 8vmax;
+font-size: 7vmax;
 opacity: 50%;
 color: white;
 position: relative;
-top:10%;
+top:5%;
 font-family: "Anton", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -27,11 +27,11 @@ letter-spacing: 8px;
 }
 .miniwordz{
   align-items: center;
-  font-size: 4vmax;
+  font-size: 3vmax;
   opacity: 60%;
   color: white;
   position: relative;
-  top:10%;
+  top:3%;
   font-family: 'Englebert', cursive;
   font-weight: 400;
     font-style: normal;
