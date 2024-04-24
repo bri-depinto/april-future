@@ -68,8 +68,10 @@ letter-spacing: 8px;
   transition: 0.3s;
 }
 .navbar-brando:hover{
+  transform: scale(1.5);
   color: #2289DE;
   transition: 0.3s;
+
 }
 
 .card-title{
@@ -98,8 +100,13 @@ color: rgb(9, 2, 55);
  height: fit-content;
  box-shadow: 0 8px 4px 0 #2289DE, 0 12px 40px 0 #2289DE;
 height: 300px;
-
 }
+.testerbot{
+  border: #2289DE double 3px;
+  height: fit-content;
+  box-shadow: 0 8px 4px 0 #2289DE, 0 12px 40px 0 #2289DE;
+ height: 300px;
+ }
 
 
 .divtitle{
