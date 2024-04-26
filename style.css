@@ -122,7 +122,14 @@ margin-bottom: 10px;
   font-family: 'Englebert', cursive;
   font-size: 1.3vmax;
 }
-
+.linkss{
+  color: #2289DE;
+  transition: 0.3s;
+}
+.linkss:hover{
+  color: rgb(193, 229, 255);
+  transition: 0.3s;
+}
 /* width */
 ::-webkit-scrollbar {
   width: 5px;
