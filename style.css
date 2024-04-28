@@ -25,6 +25,18 @@ font-family: "Anton", sans-serif;
 letter-spacing: 8px;
 
 }
+.wordzz{
+  align-items: center;
+  font-size: 8vmax;
+  opacity: 50%;
+  color: white;
+  position: relative;
+  top:11%;
+  font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  letter-spacing: 8px;
+}  
 .miniwordz{
   align-items: center;
   font-size: 3vmax;
