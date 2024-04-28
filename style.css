@@ -130,6 +130,10 @@ margin-bottom: 10px;
   color: rgb(193, 229, 255);
   transition: 0.3s;
 }
+.video{
+  width: 100px;
+  height: 100px;
+}
 /* width */
 ::-webkit-scrollbar {
   width: 5px;
