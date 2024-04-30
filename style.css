@@ -140,6 +140,10 @@ margin-bottom: 10px;
   color: rgb(193, 229, 255);
   transition: 0.3s;
 }
+
+iframe{
+margin: 0 auto;
+}
 /* width */
 ::-webkit-scrollbar {
   width: 5px;
