@@ -80,10 +80,10 @@ letter-spacing: 8px;
   transition: 0.3s;
 }
 .navbar-brando:hover{
-  transform: scale(1.5);
   color: #2289DE;
   transition: 0.3s;
-
+  box-shadow: 0 8px 4px 0 #2289DE, 0 12px 40px 0 #2289DE;
+  border-radius: 5px;
 }
 
 .card-title{
